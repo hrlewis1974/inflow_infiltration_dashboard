@@ -1,0 +1,13 @@
+# ignore folders
+#**/archived/
+#**/forecast/
+#**/latest/
+
+# ignore all folders
+# */
+
+# ignore all csv and log files
+#**/*.csv
+#**/*.log
+#**/*.zip
+#**/*.fme.recover

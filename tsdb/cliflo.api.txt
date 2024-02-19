@@ -1,0 +1,7 @@
+Stream name,Units type,Data interval (seconds),Value interpolation,External data source,External update disabled,Latest update,Latest data,Records,External units,Lookup name,Value offset,Value factor,Time offset (seconds),Min. threshold,Max. threshold,Table,Data column,Time column,User field 1,User value 1,User field 2,User value 2,User field 3,User value 3,Tag name,Description
+cliflo.21938.E,EV,86400.000,Linear,batch_api_cliflo_evap,0,19/02/2024 2:59:58 pm,18/02/2024,8174,mm/day,,0.000,1.000,0.000,0.000,,,,,,,,,,,,21938
+cliflo.3145.E,EV,86400.000,Linear,batch_api_cliflo_evap,0,19/02/2024 2:59:57 pm,8/11/2012,1224,mm/day,,0.000,1.000,0.000,0.000,,,,,,,,,,,,3145
+cliflo.3366.E,EV,86400.000,Linear,batch_api_cliflo_evap,0,Never,Never,0,mm/day,,0.000,1.000,0.000,0.000,,,,,,,,,,,,3366
+cliflo.40750.E,EV,86400.000,Linear,batch_api_cliflo_evap,0,19/02/2024 2:59:58 pm,18/02/2024,3328,mm/day,,0.000,1.000,0.000,0.000,,,,,,,,,,,,40750
+cliflo.41212.E,EV,86400.000,Linear,batch_api_cliflo_evap,0,19/02/2024 2:59:58 pm,18/02/2024,2847,mm/day,,0.000,1.000,0.000,0.000,,,,,,,,,,,,41212
+cliflo.41559.E,EV,86400.000,Linear,batch_api_cliflo_evap,0,19/02/2024 2:59:58 pm,17/02/2024,2403,mm/day,,0.000,1.000,0.000,0.000,,,,,,,,,,,,41559

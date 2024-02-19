@@ -1,0 +1,7 @@
+Stream name,Units type,Data interval (seconds),Value interpolation,External data source,External update disabled,Latest update,Latest data,Records,External units,Lookup name,Value offset,Value factor,Time offset (seconds),Min. threshold,Max. threshold,Table,Data column,Time column,User field 1,User value 1,User field 2,User value 2,User field 3,User value 3,Tag name,Description
+hynds.7FECA4.Y,Y,,Extend,dwh_hynds_utc_x64,0,19/02/2024 12:04:30 pm,18/02/2024 8:32:45 am,58347,m,,0.000,0.001,0.000,0.001,,smartmanhole_leveldata,level,timestamp,packettype,1,device,7FECA4,,,,
+hynds.7FEE89.Y,Y,,Extend,dwh_hynds_utc_x64,0,19/02/2024 12:04:46 pm,19/02/2024 11:20:53 am,68660,m,,0.000,0.001,0.000,0.001,,smartmanhole_leveldata,level,timestamp,packettype,1,device,7FEE89,,,,
+hynds.7FEFF0.Y,Y,,Extend,dwh_hynds_utc_x64,0,19/02/2024 12:03:26 pm,6/12/2022 9:02:15 am,26962,m,,0.000,0.001,0.000,0.001,,smartmanhole_leveldata,level,timestamp,packettype,1,device,7FEFF0,,,,
+hynds.82453A.Y,Y,,Extend,dwh_hynds_utc_x64,0,19/02/2024 12:03:45 pm,19/02/2024 11:49:12 am,43914,m,,0.000,0.001,0.000,0.001,,smartmanhole_leveldata,level,timestamp,packettype,1,device,82453A,,,,
+hynds.82457F.Y,Y,,Extend,dwh_hynds_utc_x64,0,19/02/2024 12:04:13 pm,19/02/2024 11:39:23 am,14974,m,,0.000,0.001,0.000,0.001,,smartmanhole_leveldata,level,timestamp,packettype,1,device,82457F,,,,
+hynds.8245C5.Y,Y,,Extend,dwh_hynds_utc_x64,0,19/02/2024 12:04:02 pm,19/02/2024 11:53:14 am,68144,m,,0.000,0.001,0.000,0.001,,smartmanhole_leveldata,level,timestamp,packettype,1,device,8245C5,,,,
